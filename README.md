@@ -1,7 +1,6 @@
 # gitproject1
 project done by sivaji
 and his frnds
-# gitproject1
 ## basic linux commands
 - cd(change directory)
 - pwd(present working directory)
